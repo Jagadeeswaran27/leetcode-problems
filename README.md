@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
@@ -38,5 +39,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0039-combination-sum/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
