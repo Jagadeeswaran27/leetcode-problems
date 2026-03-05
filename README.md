@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0039-combination-sum](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0039-combination-sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 ## Binary Search
@@ -34,4 +35,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0242-valid-anagram/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
