@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0039-combination-sum](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0039-combination-sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0198-house-robber](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
@@ -46,5 +47,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0198-house-robber](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0198-house-robber/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
