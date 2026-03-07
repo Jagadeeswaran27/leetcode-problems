@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0198-house-robber](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -62,4 +63,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
