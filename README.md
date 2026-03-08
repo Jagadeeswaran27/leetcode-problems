@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
+| [0144-binary-tree-preorder-traversal](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -84,8 +86,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
