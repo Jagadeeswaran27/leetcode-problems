@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0226-invert-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0226-invert-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
