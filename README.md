@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0226-invert-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0226-invert-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,4 +106,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0226-invert-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0572-subtree-of-another-tree/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
