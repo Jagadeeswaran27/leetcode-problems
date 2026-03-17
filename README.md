@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0242-valid-anagram/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0242-valid-anagram/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0226-invert-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jagadeeswaran27/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
