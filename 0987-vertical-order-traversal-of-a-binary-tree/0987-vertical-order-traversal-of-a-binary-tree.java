@@ -17,7 +17,7 @@
 class Tuple{
     TreeNode node;
     int hd,level;
-    Tuple(TreeNode node,int hd,int level){
+    Tuple(TreeNode node, int hd, int level){
         this.node = node;
         this.hd = hd;
         this.level = level;
@@ -52,17 +52,17 @@ class Solution {
             }
         }
 
-        List<List<Integer>> arr = new ArrayList<>();
+        List<List<Integer>> res = new ArrayList<>();
 
         for(TreeMap<Integer,PriorityQueue<Integer>> levels:map.values()){
-            arr.add(new ArrayList<>());
+            res.add(new ArrayList<>());
             for(PriorityQueue<Integer> nodes:levels.values()){
                 while(!nodes.isEmpty()){
-                    arr.get(arr.size()-1).add(nodes.poll());
+                    res.get(res.size()-1).add(nodes.poll());
                 }
             }
         }
 
-        return arr;
+        return res;
     }
 }
