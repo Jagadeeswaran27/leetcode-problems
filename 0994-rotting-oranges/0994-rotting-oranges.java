@@ -38,7 +38,7 @@ class Solution {
             int r = pair.row;
             int c = pair.col;
 
-            time = Math.max(time,t);
+            time = t;
 
             for(int d[]:dirs){
                 int nr = r+d[0];
